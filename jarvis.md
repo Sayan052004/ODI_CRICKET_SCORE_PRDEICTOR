@@ -7,7 +7,7 @@ import speech_recognition  ,
 import pyaudio  ,
 import wikipedia  ,
 import webbrowser  ,
-import openai ,
+import openai 
 
 Some other useable Module is ------>
 
