@@ -2,16 +2,16 @@ This was an complete python programming language based project . If  user want t
 
 Install all python module ------->
 
-import pyttsx3
-import speech_recognition
-import pyaudio
-import wikipedia
-import webbrowser
-import openai 
+import pyttsx3  ,
+import speech_recognition  ,
+import pyaudio  ,
+import wikipedia  ,
+import webbrowser  ,
+import openai ,
 
 Some other useable Module is ------>
 
-import datetime
+import datetime  ,
 import os
 
 This are  all python inbuilt module 
