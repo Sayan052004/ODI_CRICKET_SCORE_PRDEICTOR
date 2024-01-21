@@ -63,7 +63,7 @@ if __name__ == "__main__":
             print(strTime)
             speak(strTime)
         elif 'open code' in query:
-            codePath= "C:\\Users\\sayan\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe" # \\ is used for escape the character
+            codePath= "C:\\Users\\sayan\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"     # \\ is used for escape the character
             os.startfile(codePath)
         elif 'open file' in query:
             filePath= "C:\\Users\\sayan\\OneDrive\\Documents\\ODI_matchs\\data"
